@@ -1,0 +1,13 @@
+# Ignore tout
+*
+
+# Garde ce fichier
+!.gitignore
+
+# Garde les notebooks et CSV (racine du projet)
+!*.ipynb
+!*.csv
+
+# Garde le dossier Images et son contenu
+!Images/
+!Images/**
