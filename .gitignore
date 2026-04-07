@@ -7,6 +7,8 @@
 # Garde les notebooks et CSV (racine du projet)
 !*.ipynb
 !*.csv
+!*.md
+!*.txt
 
 # Garde le dossier Images et son contenu
 !Images/
